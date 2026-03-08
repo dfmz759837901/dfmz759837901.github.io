@@ -17,7 +17,7 @@ I currently work in LLM Evaluation.
 My Chinese name is 珠齐明 (Zhū Qímíng).
 
 # 🎓 Educations
-- *2023.09 - 2026.06*, **Master Ca**, Institute of Software, Chinese Academy of Sciences (ISCAS), [Chinese Information Processing Laboratory](https://www.icip.org.cn/zh/homepage).
+- *2023.09 - 2026.06*, **Master Student**, Institute of Software, Chinese Academy of Sciences (ISCAS), [Chinese Information Processing Laboratory](https://www.icip.org.cn/zh/homepage).
 - *2019.09 - 2023.06*, **Bachelor of Engineering**, Sichuan University (SCU), Computer Science and Technology (Talent Training Program). 
   
   Weighted Average Mark: 92.09/100 **&#124;** GPA of compulsory Courses: 3.89/4.0
@@ -45,7 +45,7 @@ My Chinese name is 珠齐明 (Zhū Qímíng).
 
 # 💼 Project Experience
 - *2025.10 - Present*, Chinese Dialect Classification
-- *2025.07.02 - 2025.09.30*, Research Intern at <a href="https://www.baidu.com"><img src="https://www.baidu.com/img/flexible/logo/pc/result.png" style="height:1.2em;vertical-align:0.0em;"></a>. SWE Task High-Quality Data Construction.
+- *2025.07.02 - 2025.09.30*, Research Intern at <a href="https://www.baidu.com"><img src="https://www.baidu.com/img/flexible/logo/pc/result.png" style="height:1.2em;vertical-align:0.0em;"></a>. [Software Engineering Task](https://www.swebench.com/) High-Quality Data Construction.
 - *2025.06 - 2026.03*, **Code Sandbox Environment** for Code LLM RL: [ScaleBox](https://github.com/icip-cas/ScaleBox)
 - *2024.09 - 2025.09*, Contributed to the open-source industrial Chinese NLP toolkit **PaddleNLP**:
   - [Structured Index for Documents](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/slm/pipelines/examples/structured_index): Multi-granular vector indexing for PDF/HTML documents using LLMs.
@@ -61,9 +61,9 @@ My Chinese name is 珠齐明 (Zhū Qímíng).
 - **First Prize**, The 11th Blue Bridge Cup National Finals (C/C++ Programming, University Group A)
 
 [**Olympiad in Informatics (OI)**](https://oier.baoshuo.dev/?query=%E7%8F%A0%E9%BD%90%E6%98%8E)
-- **First Prize**, China Computer Federation (CCF) National Olympiad in Informatics in Provinces (NOIP) 2017 Senior Group (https://www.noi.cn/ccf/file/do?fid=aTDJGtb5&attach=n)
-- **First Prize**, China Computer Federation (CCF) National Olympiad in Informatics in Provinces (NOIP) 2016 Senior Group (https://www.noi.cn/hjmd/mdgs/2016/2016-12-08/710374.shtml)
-- **First Prize**, China Computer Federation (CCF) National Olympiad in Informatics in Provinces (NOIP) 2015 Senior Group (https://www.noi.cn/hjmd/mdgs/2015/2015-11-27/710367.shtml)
+- [**First Prize**](https://www.noi.cn/ccf/file/do?fid=aTDJGtb5&attach=n), China Computer Federation (CCF) National Olympiad in Informatics in Provinces (NOIP) 2017 Senior Group
+- [**First Prize**](https://www.noi.cn/hjmd/mdgs/2016/2016-12-08/710374.shtml), China Computer Federation (CCF) National Olympiad in Informatics in Provinces (NOIP) 2016 Senior Group
+- [**First Prize**](https://www.noi.cn/hjmd/mdgs/2015/2015-11-27/710367.shtml), China Computer Federation (CCF) National Olympiad in Informatics in Provinces (NOIP) 2015 Senior Group
 
 # 🎖 Honors and Awards
 - *2025.12*: **[National Scholarship](https://onestop.ucas.ac.cn/home/infob/b7e6055c-b20e-4cdd-9530-e26385579b21) (Top scholarship in China)** in the University of Chinese Academy of Sciences (UCAS)
