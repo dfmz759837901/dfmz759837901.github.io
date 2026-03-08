@@ -1,19 +1,25 @@
 # main links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/#-about-me"
   
   - title: "Educations"
     url: "/#-educations"
 
   - title: "Publications"
     url: "/#-publications"
-  
+
   - title: "Project Experience"
-    url: "/#-experience"
+    url: "/#-project-experience"
 
   - title: "Competition Experience"
     url: "/#-competition-experience"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
+
+  - title: "Academic Partners"
+    url: "/#-academic-partners"
+
+  - title: "Sports"
+    url: "/#-sports"

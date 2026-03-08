@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-<span class='anchor' id='about-me'></span>
+# 🧑‍💻 About Me
+
+My Chinese name is 珠齐明 (Zhū Qímíng).
+
+I've been programming since childhood.
 
 My research interests lie in **Large Language Models (LLMs)**.
 
 I currently work in LLM Evaluation.
-
-My Chinese name is 珠齐明 (Zhū Qímíng).
 
 # 🎓 Educations
 - *2023.09 - 2026.06*, **Master Student**, Institute of Software, Chinese Academy of Sciences (ISCAS), [Chinese Information Processing Laboratory](https://www.icip.org.cn/zh/homepage).
@@ -65,10 +67,18 @@ My Chinese name is 珠齐明 (Zhū Qímíng).
 - [**First Prize**](https://www.noi.cn/hjmd/mdgs/2016/2016-12-08/710374.shtml), China Computer Federation (CCF) National Olympiad in Informatics in Provinces (NOIP) 2016 Senior Group
 - [**First Prize**](https://www.noi.cn/hjmd/mdgs/2015/2015-11-27/710367.shtml), China Computer Federation (CCF) National Olympiad in Informatics in Provinces (NOIP) 2015 Senior Group
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *2025.12*: **[National Scholarship](https://onestop.ucas.ac.cn/home/infob/b7e6055c-b20e-4cdd-9530-e26385579b21) (Top scholarship in China)** in the University of Chinese Academy of Sciences (UCAS)
 - *2025.05*: **Three-Virtues Model Student**, Honorary Title of the University of Chinese Academy of Sciences (UCAS)
 - *2022.09*: [The CCF Excellent University Student Kickoff Program](https://www.ccf.org.cn/Awards/Awards/2022-09-06/772839.shtml)
 - *2021.12*: **Special Award**, Sichuan University [Tencent Scholarship](http://foundation.scu.edu.cn/info/1030/5131.htm) **(Awarded to only 1 undergraduate annually)**
 - *2021.04*: CCF Certified Software Professional: 430 points **(TOP 0.18%)**
 - *2020.12*: **[National Scholarship](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202012/t20201217_506100.html) (Top scholarship in China)** in Sichuan University (SCU)
+
+# 💡 Academic Partners
+- [Ruiyang Xu](https://scholar.google.com/citations?user=epiyZfwAAAAJ&hl=zh-CN)
+
+# 🏃 Sports
+- 🏸 Badminton *(Newbie here)*
+- 🪢 Jump Rope
+- 🛼 Roller Skating
