@@ -12,7 +12,7 @@ redirect_from:
 
 My research interests lie in **Large Language Models (LLMs)**.
 
-My work is currently focused on LLM Evaluation.
+I currently work in LLM Evaluation.
 
 My Chinese name is 珠齐明 (Zhū Qímíng).
 
@@ -45,7 +45,7 @@ My Chinese name is 珠齐明 (Zhū Qímíng).
 
 # 💼 Project Experience
 - *2025.10 - Present*, Chinese Dialect Classification
-- *2025.07.02 - 2025.09.30*, Research Intern at **Baidu** <img src="https://www.baidu.com/favicon.ico" style="height:1em;vertical-align:middle;">. SWE Task High-Quality Data Construction.
+- *2025.07.02 - 2025.09.30*, Research Intern at <a href="https://www.baidu.com"><img src="https://www.baidu.com/img/flexible/logo/pc/result.png" style="height:1.2em;vertical-align:0.0em;"></a>. SWE Task High-Quality Data Construction.
 - *2025.06 - 2026.03*, **Code Sandbox Environment** for Code LLM RL: [ScaleBox](https://github.com/icip-cas/ScaleBox)
 - *2024.09 - 2025.09*, Contributed to the open-source industrial Chinese NLP toolkit **PaddleNLP**:
   - [Structured Index for Documents](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/slm/pipelines/examples/structured_index): Multi-granular vector indexing for PDF/HTML documents using LLMs.
