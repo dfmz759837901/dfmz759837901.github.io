@@ -32,7 +32,7 @@ I currently work in LLM Evaluation.
 
 - **Qiming Zhu**, Jialun Cao†, Xuanang Chen†, Weili Zhang, Yaojie Lu, Hongyu Lin, Xianpei Han, Le Sun, Shing-Chi Cheung.
   *Across Programming Language Silos: A Study on Cross-Lingual Retrieval-augmented Code Generation.*
-  In Submission.
+  In Findings of the Association for Computational Linguistics: ACL 2025.
   🔗[[Paper]](https://arxiv.org/abs/2506.03535)
 
 - **Qiming Zhu**\*, Jialun Cao\*, Yaojie Lu†, Hongyu Lin, Xianpei Han, Le Sun, Shing-Chi Cheung.
