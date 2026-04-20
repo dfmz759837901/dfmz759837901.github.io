@@ -28,12 +28,12 @@ I currently work in LLM Evaluation.
 
 - Jiasheng Zheng, Xin Zheng, Boxi Cao, Pengbo Wang, Zhengzhao Ma, **Qiming Zhu**, Jiazhen Jiang, Yaojie Lu, Hongyu Lin, Xianpei Han, Le Sun. 
   *ScaleBox: Enabling High-Fidelity and Scalable Code Verification for Large Language Models.*
-  In Submission.
+  In Submission. 💻[[Github]](https://github.com/icip-cas/ScaleBox)
 
 - **Qiming Zhu**, Jialun Cao†, Xuanang Chen†, Weili Zhang, Yaojie Lu, Hongyu Lin, Xianpei Han, Le Sun, Shing-Chi Cheung.
   *Across Programming Language Silos: A Study on Cross-Lingual Retrieval-augmented Code Generation.*
   In Findings of the Association for Computational Linguistics: **ACL 2026**.
-  🔗[[Paper]](https://arxiv.org/abs/2506.03535)
+  🔗[[Paper]](https://arxiv.org/abs/2506.03535) 💻[[Github]](https://github.com/icip-cas/Cross-Lingual-RACG)
 
 - **Qiming Zhu**\*, Jialun Cao\*, Yaojie Lu†, Hongyu Lin, Xianpei Han, Le Sun, Shing-Chi Cheung.
   *DOMAINEVAL: An Auto-Constructed Benchmark for Multi-Domain Code Generation.*
@@ -43,7 +43,7 @@ I currently work in LLM Evaluation.
 - Xin Zheng, **Qiming Zhu**, Hongyu Lin, Yaojie Lu, Xianpei Han, Le Sun†.
   *Executing Natural Language-Described Algorithms with Large Language Models: An Investigation.*
   In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**COLING 2024**), pp. 6752-6837. (**CCF-B**)
-  🔗[[Paper]](http://www.lrec-conf.org/proceedings/lrec-coling-2024/pdf/2024.main-1.596.pdf)
+  🔗[[Paper]](http://www.lrec-conf.org/proceedings/lrec-coling-2024/pdf/2024.main-1.596.pdf) 💻[[Github]](https://github.com/MrZhengXin/natural_language_program)
 
 # 💼 Project Experience
 - *2025.10 - Present*, Chinese Dialect Classification
