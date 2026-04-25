@@ -26,9 +26,9 @@ I currently work in LLM Evaluation.
 
 # 📝 Publications
 
-- Jiasheng Zheng*, Xin Zheng*, Boxi Cao*, Pengbo Wang, Zhengzhao Ma, **Qiming Zhu**, Jiazhen Jiang, Yaojie Lu†, Hongyu Lin†, Xianpei Han, Le Sun. 
+- Jiasheng Zheng\*, Xin Zheng\*, Boxi Cao\*, Pengbo Wang, Zhengzhao Ma, **Qiming Zhu**, Jiazhen Jiang, Yaojie Lu†, Hongyu Lin†, Xianpei Han, Le Sun. 
   *ScaleBox: Enabling High-Fidelity and Scalable Code Verification for Large Language Models.*
-  In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics: System Demonstrations. (**ACL 2026 Demo**) 💻[[Github]](https://github.com/icip-cas/ScaleBox)
+  In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics: System Demonstrations (**ACL 2026 Demo**). 💻[[Github]](https://github.com/icip-cas/ScaleBox)
 
 - **Qiming Zhu**, Jialun Cao†, Xuanang Chen†, Weili Zhang, Yaojie Lu, Hongyu Lin, Xianpei Han, Le Sun, Shing-Chi Cheung.
   *Across Programming Language Silos: A Study on Cross-Lingual Retrieval-augmented Code Generation.*
@@ -79,14 +79,14 @@ I currently work in LLM Evaluation.
 - [Ruiyang Xu](https://scholar.google.com/citations?user=epiyZfwAAAAJ&hl=zh-CN)
 - [Rupeng Zhang](https://scholar.google.com/citations?user=RRLczYgAAAAJ&hl=zh-CN)
   - *Joint-GCG: Unified Gradient-Based Poisoning Attacks on Retrieval-Augmented Generation Systems.*
-  Proceedings of the AAAI Conference on Artificial Intelligence, 40(42), 35793-35801. (**AAAI 2026**) (**CCF-A**)
+  In Proceedings of the AAAI Conference on Artificial Intelligence, 40(42), 35793-35801. (**AAAI 2026**) (**CCF-A**)
   🔗[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/40893)
   - *From Allies to Adversaries Manipulating LLM Tool-Calling through Adversarial Injection.*
-  Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers) (**NAACL 2025**) (**CCF-B**)
+  In Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers) (**NAACL 2025**) (**CCF-B**)
   🔗[[Paper]](https://aclanthology.org/2025.naacl-long.101)
 - [Yang Zou](https://scholar.google.com/citations?user=YCzCUOQAAAAJ&hl=zh-CN)
   - *Gesture Builder: Flexible Gesture Customization and Efficient Recognition on VR Devices.*
-  Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. (**UbiComp 2025**) (**CCF-A**) 
+  In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. (**UbiComp 2025**) (**CCF-A**) 
   🔗[[Paper]](https://dl.acm.org/doi/abs/10.1145/3729484)
 
 # 🏃 Sports
