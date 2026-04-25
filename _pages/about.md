@@ -26,9 +26,9 @@ I currently work in LLM Evaluation.
 
 # 📝 Publications
 
-- Jiasheng Zheng, Xin Zheng, Boxi Cao, Pengbo Wang, Zhengzhao Ma, **Qiming Zhu**, Jiazhen Jiang, Yaojie Lu, Hongyu Lin, Xianpei Han, Le Sun. 
+- Jiasheng Zheng*, Xin Zheng*, Boxi Cao*, Pengbo Wang, Zhengzhao Ma, **Qiming Zhu**, Jiazhen Jiang, Yaojie Lu†, Hongyu Lin†, Xianpei Han, Le Sun. 
   *ScaleBox: Enabling High-Fidelity and Scalable Code Verification for Large Language Models.*
-  In Submission. 💻[[Github]](https://github.com/icip-cas/ScaleBox)
+  In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics: System Demonstrations. (**ACL 2026 Demo**) 💻[[Github]](https://github.com/icip-cas/ScaleBox)
 
 - **Qiming Zhu**, Jialun Cao†, Xuanang Chen†, Weili Zhang, Yaojie Lu, Hongyu Lin, Xianpei Han, Le Sun, Shing-Chi Cheung.
   *Across Programming Language Silos: A Study on Cross-Lingual Retrieval-augmented Code Generation.*
