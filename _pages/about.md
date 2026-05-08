@@ -19,7 +19,7 @@ My research interests lie in **Large Language Models (LLMs)**.
 I currently work in LLM Evaluation.
 
 # 🎓 Educations
-- *2023.09 - 2026.06*, **Master Student**, Institute of Software, Chinese Academy of Sciences (ISCAS), [Chinese Information Processing Laboratory](https://www.icip.org.cn/zh/homepage).
+- *2023.09 - 2026.06*, **Master of Engineering**, Institute of Software, Chinese Academy of Sciences (ISCAS), [Chinese Information Processing Laboratory](https://www.icip.org.cn/zh/homepage).
 - *2019.09 - 2023.06*, **Bachelor of Engineering**, Sichuan University (SCU), Computer Science and Technology (Talent Training Program). 
   
   Weighted Average Mark: 92.09/100 **&#124;** GPA of compulsory Courses: 3.89/4.0
