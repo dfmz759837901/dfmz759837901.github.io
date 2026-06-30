@@ -19,7 +19,8 @@ My research interests lie in **Large Language Models (LLMs)**.
 I currently work in LLM Evaluation.
 
 # 🎓 Educations
-- *2023.09 - 2026.06*, **Master of Engineering**, Institute of Software, Chinese Academy of Sciences (ISCAS), [Chinese Information Processing Laboratory](https://www.icip.org.cn/zh/homepage).
+- *2026.09 - Present*, **PhD student**, The Chinese University of Hong Kong, Shenzhen (CUHKSZ), School of Data Science.
+- *2023.09 - 2026.06*, **Master of Science in Engineering**, Institute of Software, Chinese Academy of Sciences (ISCAS), [Chinese Information Processing Laboratory](https://www.icip.org.cn/zh/homepage).
 - *2019.09 - 2023.06*, **Bachelor of Engineering**, Sichuan University (SCU), Computer Science and Technology (Talent Training Program). 
   
   Weighted Average Mark: 92.09/100 **&#124;** GPA of compulsory Courses: 3.89/4.0
@@ -28,12 +29,12 @@ I currently work in LLM Evaluation.
 
 - Jiasheng Zheng\*, Xin Zheng\*, Boxi Cao\*, Pengbo Wang, Zhengzhao Ma, **Qiming Zhu**, Jiazhen Jiang, Yaojie Lu†, Hongyu Lin†, Xianpei Han, Le Sun. 
   *ScaleBox: Enabling High-Fidelity and Scalable Code Verification for Large Language Models.*
-  In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics: System Demonstrations (**ACL 2026 Demo**). 🔗[[Paper]](https://arxiv.org/abs/2604.27467) 💻[[Github]](https://github.com/icip-cas/ScaleBox)
+  In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics: System Demonstrations (**ACL 2026 Demo**). 🔗[[Paper]](https://aclanthology.org/2026.acl-demo.30) 💻[[Github]](https://github.com/icip-cas/ScaleBox)
 
 - **Qiming Zhu**, Jialun Cao†, Xuanang Chen†, Weili Zhang, Yaojie Lu, Hongyu Lin, Xianpei Han, Le Sun, Shing-Chi Cheung.
   *Across Programming Language Silos: A Study on Cross-Lingual Retrieval-augmented Code Generation.*
   In Findings of the Association for Computational Linguistics: **ACL 2026**.
-  🔗[[Paper]](https://arxiv.org/abs/2506.03535) 💻[[Github]](https://github.com/icip-cas/Cross-Lingual-RACG)
+  🔗[[Paper]](https://aclanthology.org/2026.findings-acl.1216) 💻[[Github]](https://github.com/icip-cas/Cross-Lingual-RACG)
 
 - **Qiming Zhu**\*, Jialun Cao\*, Yaojie Lu†, Hongyu Lin, Xianpei Han, Le Sun, Shing-Chi Cheung.
   *DOMAINEVAL: An Auto-Constructed Benchmark for Multi-Domain Code Generation.*
@@ -46,7 +47,7 @@ I currently work in LLM Evaluation.
   🔗[[Paper]](http://www.lrec-conf.org/proceedings/lrec-coling-2024/pdf/2024.main-1.596.pdf) 💻[[Github]](https://github.com/MrZhengXin/natural_language_program)
 
 # 💼 Project Experience
-- *2025.10 - Present*, Chinese Dialect Classification
+- *2025.10 - 2026.06*, Chinese Dialect Classification
 - *2025.07.02 - 2025.09.30*, Research Intern at <a href="https://www.baidu.com"><img src="https://www.baidu.com/img/flexible/logo/pc/result.png" style="height:1.2em;vertical-align:0.0em;"></a>. [Software Engineering Task](https://www.swebench.com/) High-Quality Data Construction.
 - *2025.06 - 2026.03*, **Code Sandbox Environment** for Code LLM RL: [ScaleBox](https://github.com/icip-cas/ScaleBox)
 - *2024.09 - 2025.09*, Contributed to the open-source industrial Chinese NLP toolkit **PaddleNLP**:
