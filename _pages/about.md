@@ -12,14 +12,12 @@ redirect_from:
 
 My Chinese name is 珠齐明 (Zhū Qímíng).
 
-I've been programming since childhood.
-
 My research interests lie in **Large Language Models (LLMs)**.
 
-I currently work in LLM Evaluation.
+Feel free to contact me.
 
 # 🎓 Educations
-- *2026.09 - Present*, **PhD student**, The Chinese University of Hong Kong, Shenzhen (CUHKSZ), School of Data Science.
+- *2026.09 - Present*, **CS PhD student**, The Chinese University of Hong Kong, Shenzhen (CUHKSZ), School of Data Science (SDS).
 - *2023.09 - 2026.06*, **Master of Science in Engineering**, Institute of Software, Chinese Academy of Sciences (ISCAS), [Chinese Information Processing Laboratory](https://www.icip.org.cn/zh/homepage).
 - *2019.09 - 2023.06*, **Bachelor of Engineering**, Sichuan University (SCU), Computer Science and Technology (Talent Training Program). 
   
