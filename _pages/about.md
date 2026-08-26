@@ -74,6 +74,10 @@ Feel free to contact me.
 - *2021.04*: CCF Certified Software Professional: 430 points **(TOP 0.18%)**
 - *2020.12*: **[National Scholarship](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202012/t20201217_506100.html) (Top scholarship in China)** in Sichuan University (SCU)
 
+# 🏛️ Academic Service
+
+- **Virtual Session Chair**, 64th Annual Meeting of the Association for Computational Linguistics (**ACL 2026**), San Diego, USA.
+
 # 💡 Academic Collaborators
 - [Ruiyang Xu](https://scholar.google.com/citations?user=epiyZfwAAAAJ&hl=zh-CN)
 - [Rupeng Zhang](https://scholar.google.com/citations?user=RRLczYgAAAAJ&hl=zh-CN)
